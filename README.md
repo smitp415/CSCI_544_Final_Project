@@ -8,7 +8,7 @@ Artificial intelligence is being utilized in many domains as of late, and the le
 
 ## Links
 
-arXiv Link: TBA
+arXiv Link: https://arxiv.org/abs/2112.03414
 
 YouTube Link: https://youtu.be/vJ6NQ_UAcVo
 
